@@ -1,8 +1,7 @@
-/*
- * "LLPAD" You can open a very big document (more than 10GBytes) with ease
- * 
- * Copyright 2016-2017 Tom Misawa, riversun.org@gmail.com
- * 
+/*  LineBotServlet for line-bot-sdk-java
+ *
+ *  Copyright (c) 2017 Tom Misawa, riversun.org@gmail.com
+ *  
  * Permission is hereby granted, free of charge, to any person obtaining a copy of 
  * this software and associated documentation files (the "Software"), to deal in the 
  * Software without restriction, including without limitation the rights to use, 
